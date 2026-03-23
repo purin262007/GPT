@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tiktok_red">#FFFE2C55</color>
+    <color name="tiktok_cyan">#FF25F4EE</color>
+    <color name="tiktok_dark">#FF161823</color>
+    <color name="tiktok_gray">#FF2F2F2F</color>
+    <color name="background_dark">#FF121212</color>
+    <color name="surface_dark">#FF1E1E1E</color>
+    <color name="card_dark">#FF2A2A2A</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="success_green">#FF4CAF50</color>
+    <color name="error_red">#FFEF5350</color>
+</resources>

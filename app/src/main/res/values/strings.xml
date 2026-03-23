@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TikTok Downloader</string>
+    <string name="hint_paste_url">TikTokのURLを貼り付け</string>
+    <string name="btn_paste">貼り付け</string>
+    <string name="btn_download">ダウンロード</string>
+    <string name="btn_download_no_watermark">透かしなしでダウンロード</string>
+    <string name="status_ready">URLを入力してダウンロードを開始</string>
+    <string name="status_fetching">動画情報を取得中…</string>
+    <string name="status_downloading">ダウンロード中… %d%%</string>
+    <string name="status_complete">ダウンロード完了！</string>
+    <string name="status_error">エラー: %s</string>
+    <string name="notification_channel_name">ダウンロード</string>
+    <string name="notification_downloading">動画をダウンロード中</string>
+    <string name="notification_complete">ダウンロード完了</string>
+    <string name="btn_open_file">ファイルを開く</string>
+    <string name="btn_share">共有</string>
+    <string name="invalid_url">有効なTikTokのURLを入力してください</string>
+    <string name="download_history">ダウンロード履歴</string>
+    <string name="permission_required">ストレージの権限が必要です</string>
+</resources>
